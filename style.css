@@ -56,8 +56,16 @@ input[type="text"]{
 }
 @media screen and (max-width: 426px){
     table{
-        margin-top: 0px;
+        margin-top: 120px;
         margin-left: 55px;
+        width: 300px;
+        height: 400px;
+    }
+}
+@media screen and (max-width: 376px){
+    table{
+        margin-top: 120px;
+        margin-left: 30px;
         width: 300px;
         height: 400px;
     }
